@@ -11,3 +11,4 @@ Here you can access the solutions by the used technique.
 5. [**Arrays**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Arrays)
 6. [**Arrays - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Arrays%20-%20more%20solutions)
 7. [**Methods**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Methods)
+8. [**Methods - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Methods%20-%20more%20solutions)
