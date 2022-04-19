@@ -10,3 +10,5 @@ Here you can access the solutions by the used technique.
 4. [**Data Types and Variables - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Data%20Types%20and%20Variables%20-%20more%20solutions)
 5. [**Arrays**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Arrays)
 6. [**Arrays - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Arrays%20-%20more%20solutions)
+7. [**Methods**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Methods)
+8. [**Methods - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Methods%20-%20more%20solutions)
