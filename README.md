@@ -15,3 +15,4 @@ Here you can access the solutions by the used technique.
 9. [**HTML and CSS**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/HTML%20and%20CSS%20%20project)
 10. [**Lists**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Lists)
 11. [**Lists - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Lists%20-%20more%20solutions)
+12. [**Objects and Classes**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Objects%20and%20Classes)
