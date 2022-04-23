@@ -18,3 +18,4 @@ Here you can access the solutions by the used technique.
 12. [**Objects and Classes**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Objects%20and%20Classes)
 13. [**Objects and Classes - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Objects%20and%20Classes%20-%20more%20solutions)
 14. [**Associative Arrays**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Associative%20Arrays)
+15. [**Associative Arrays - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Associative%20Arrays%20-%20more%20solutions)
