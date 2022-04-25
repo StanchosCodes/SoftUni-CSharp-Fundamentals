@@ -20,3 +20,4 @@ Here you can access the solutions by the used technique.
 14. [**Associative Arrays**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Associative%20Arrays)
 15. [**Associative Arrays - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Associative%20Arrays%20-%20more%20solutions)
 16. [**Text Processing**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Text%20Processing)
+17. [**Text Processing - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Text%20Processing%20-%20more%20solutions)
