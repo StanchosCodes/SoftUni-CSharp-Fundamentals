@@ -22,3 +22,4 @@ Here you can access the solutions by the used technique.
 16. [**Text Processing**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Text%20Processing)
 17. [**Text Processing - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Text%20Processing%20-%20more%20solutions)
 18. [**Regular Expressions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Regular%20Expressions)
+19. [**Regular Expressions - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Regular%20Expressions%20-%20more%20solutions)
