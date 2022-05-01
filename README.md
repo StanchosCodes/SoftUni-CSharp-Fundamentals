@@ -25,3 +25,4 @@ Here you can access the solutions sorted by the used technique.
 19. [**Regular Expressions - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Regular%20Expressions%20-%20more%20solutions)
 20. [**Mid Exam Preparation**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Mid%20Exam%20Preparation)
 21. [**Final Exam Preparation**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Final%20Exam%20Preparation)
+22. [**Lists Advanced**](https://github.com/StanchosCodes/SoftUni-CSharp-Fundamentals/tree/main/Advanced%20Lists%20solutions)
